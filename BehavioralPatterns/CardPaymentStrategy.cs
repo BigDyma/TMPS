@@ -1,9 +1,8 @@
-﻿using StructuralPatterns.Interfaces;
-using System;
+﻿using System;
 
-namespace StructuralPatterns.Domain.PaymentStrategies
+namespace BehavioralPatterns.PaymentStrategies
 {
-     class CardPaymentStrategy : IPaymentStrategy
+     public class CardPaymentStrategy : IPaymentStrategy
      {
           public void Pay(double amount)
           {

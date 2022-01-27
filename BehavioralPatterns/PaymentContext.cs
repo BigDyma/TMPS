@@ -1,8 +1,7 @@
-﻿using StructuralPatterns.Interfaces;
-
-namespace StructuralPatterns.Domain.PaymentStrategies
+﻿
+namespace BehavioralPatterns.PaymentStrategies
 {
-     class PaymentContext
+     public class PaymentContext
      {
           private IPaymentStrategy _paymentStrategy;
 

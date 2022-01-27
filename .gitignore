@@ -3,3 +3,8 @@
 ################################################################################
 
 /StructuralPattern/.vs/StructuralPatterns
+/BehavioralPatterns/obj
+*.cs
+*.cache
+*.editorconfig
+/StructuralPattern/obj

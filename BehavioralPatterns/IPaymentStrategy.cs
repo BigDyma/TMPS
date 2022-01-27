@@ -1,4 +1,4 @@
-﻿namespace StructuralPatterns.Interfaces
+﻿namespace BehavioralPatterns
 {
      interface IPaymentStrategy
      {
